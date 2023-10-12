@@ -1,0 +1,243 @@
+{
+    "userId": 2,
+    "name": "John",
+    "surname": "Doe",
+    "age": 29,
+    "gender": "Male",
+    "statements": [
+      {
+        "month": "July",
+        "year": 2023,
+        "totalExpenses": "1000",
+        "floatingBalance": "2000",
+        "summarisedExpensesInfo": {
+          "withdrawals": "10",
+          "groceries": "1000",
+          "loans": "6000",
+          "insurance": "3000",
+          "entertainment": "800",
+          "household": "15000",
+          "communication": "13000",
+          "education": "4000",
+          "publicTransport": "0",
+          "travel": "2500",
+          "carRentals": "0",
+          "security": "700"
+        },
+        "transactions": [
+          {
+            "timestamp": "2023-07-08T18:30:00.000Z", 
+            "description": "Woolworths",
+            "category": "groceries",
+            "paymentType": "EFT",
+            "amount": "2500"
+          },
+          {
+            "timestamp": "2023-07-02T17:45:00.000Z", 
+            "description": "Takealot",
+            "category": "entertainment",
+            "paymentType": "Card",
+            "amount": "15000.00"
+          },
+          {
+            "timestamp": "2023-07-08T18:30:00.000Z", 
+            "description": "Checkers",
+            "category": "groceries",
+            "paymentType": "EFT",
+            "amount": "1000"
+          },
+          {
+            "timestamp": "2023-07-15T17:45:00.000Z", 
+            "description": "Takealot",
+            "category": "publicTransport",
+            "paymentType": "Card",
+            "amount": "200"
+          },
+          {
+            "timestamp": "2023-07-20T17:45:00.000Z", 
+            "description": "Curro",
+            "category": "education",
+            "paymentType": "Card",
+            "amount": "15000"
+          },
+          {
+            "timestamp": "2023-07-26T17:45:00.000Z", 
+            "description": "ADT",
+            "category": "security",
+            "paymentType": "Card",
+            "amount": "15000"
+          }
+        ]
+      },
+      {
+        "month": "August",
+        "year": 2023,
+        "totalExpenses": "0", 
+        "summarisedExpensesInfo": {
+            "withdrawals": "3000",
+            "groceries": "4000",
+            "loans": "600",
+            "insurance": "3000",
+            "entertainment": "800",
+            "household": "1500",
+            "communication": "1300",
+            "education": "400",
+            "publicTransport": "0",
+            "travel": "2500",
+            "carRentals": "0",
+            "security": "700"
+          },
+        "transactions": [
+          {
+            "timestamp": "2023-08-01T19:15:00.000Z", 
+            "description": "Checkers",
+            "category": "groceries",
+            "paymentType": "Card",
+            "amount": "2000.00"
+          },
+          {
+            "timestamp": "2023-08-05T18:30:00.000Z", 
+            "description": "Uber",
+            "category": "publicTransport",
+            "paymentType": "Card",
+            "amount": "500.00"
+          },
+          {
+            "timestamp": "2023-08-09T18:30:00.000Z", 
+            "description": "Woolworths",
+            "category": "groceries",
+            "paymentType": "EFT",
+            "amount": "2500"
+          },
+          {
+            "timestamp": "2023-08-11T17:45:00.000Z", 
+            "description": "Takealot",
+            "category": "entertainment",
+            "paymentType": "Card",
+            "amount": "15000.00"
+          },
+          {
+            "timestamp": "2023-07-15T18:30:00.000Z", 
+            "description": "Checkers",
+            "category": "groceries",
+            "paymentType": "EFT",
+            "amount": "1000"
+          },
+          {
+            "timestamp": "2023-08-15T17:45:00.000Z", 
+            "description": "Takealot",
+            "category": "publicTransport",
+            "paymentType": "Card",
+            "amount": "200"
+          },
+          {
+            "timestamp": "2023-08-20T17:45:00.000Z", 
+            "description": "Curro",
+            "category": "education",
+            "paymentType": "Card",
+            "amount": "15000"
+          },
+          {
+            "timestamp": "2023-08-26T17:45:00.000Z", 
+            "description": "ADT",
+            "category": "security",
+            "paymentType": "Card",
+            "amount": "15000"
+          }
+        ]
+      },
+      {
+        "month": "September",
+        "year": 2023,
+        "totalExpenses": "0", 
+        "floatingBalance": "0",  
+        "summarisedExpensesInfo": {
+            "withdrawals": "1000",
+            "groceries": "1000",
+            "loans": "3000",
+            "insurance": "1000",
+            "entertainment": "500",
+            "household": "15000",
+            "communication": "13000",
+            "education": "4000",
+            "publicTransport": "0",
+            "travel": "2500",
+            "carRentals": "0",
+            "security": "700"
+          },
+        "transactions": [
+          {
+            "timestamp": "2023-09-01T18:00:00.000Z",
+            "description": "Clicks",
+            "category": "phamarcy",
+            "paymentType": "Card",
+            "amount": "100.00"
+          },
+          {
+            "timestamp": "2023-09-04T19:00:00.000Z",
+            "description": "McDonald's",
+            "category": "fastFood",
+            "paymentType": "Card",
+            "amount": "189.00"
+          },
+          {
+            "timestamp": "2023-09-01T19:15:00.000Z", 
+            "description": "Checkers",
+            "category": "groceries",
+            "paymentType": "Card",
+            "amount": "2000.00"
+          },
+          {
+            "timestamp": "2023-09-05T18:30:00.000Z", 
+            "description": "Uber",
+            "category": "publicTransport",
+            "paymentType": "Card",
+            "amount": "500.00"
+          },
+          {
+            "timestamp": "2023-09-09T18:30:00.000Z", 
+            "description": "Woolworths",
+            "category": "groceries",
+            "paymentType": "EFT",
+            "amount": "2500"
+          },
+          {
+            "timestamp": "2023-09-11T17:45:00.000Z", 
+            "description": "Takealot",
+            "category": "entertainment",
+            "paymentType": "Card",
+            "amount": "15000.00"
+          },
+          {
+            "timestamp": "2023-09-15T18:30:00.000Z", 
+            "description": "Checkers",
+            "category": "groceries",
+            "paymentType": "EFT",
+            "amount": "1000"
+          },
+          {
+            "timestamp": "2023-09-15T17:45:00.000Z", 
+            "description": "Takealot",
+            "category": "publicTransport",
+            "paymentType": "Card",
+            "amount": "200"
+          },
+          {
+            "timestamp": "2023-09-20T17:45:00.000Z", 
+            "description": "Curro",
+            "category": "education",
+            "paymentType": "Card",
+            "amount": "15000"
+          },
+          {
+            "timestamp": "2023-09-26T17:45:00.000Z", 
+            "description": "ADT",
+            "category": "security",
+            "paymentType": "Card",
+            "amount": "15000"
+          }
+        ]
+      }
+    ]
+  }
+  
